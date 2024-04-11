@@ -9,3 +9,7 @@ b
 2src/com/alurareproductoraudio/modelos/Podcast.java,1\4\14df154df2736cd44e1cc0f9075ab9299de21f66
 b
 2src/com/alurareproductoraudio/modelos/Cancion.java,a\5\a5f3700617ac8f37f2e5797f8bf34fca8c60a4ea
+f
+6src/com/alurareproductoraudio/principal/Principal.java,8\f\8faedc4ab28411cfd5994871141f7697d8b72d98
+g
+7src/com/alurareproductoraudio/modelos/MisFavoritos.java,3\0\30fa8df738351a28b90ce102a0c2280661cc7e2b
