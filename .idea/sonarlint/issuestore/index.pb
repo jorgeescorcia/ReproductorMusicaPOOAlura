@@ -7,3 +7,5 @@ d
 4src/com/alurareproductoraudio/modelos/Canciones.java,4\a\4ad4f7fa5044b2d79ab72930ea6ef4e32fd80335
 b
 2src/com/alurareproductoraudio/modelos/Podcast.java,1\4\14df154df2736cd44e1cc0f9075ab9299de21f66
+b
+2src/com/alurareproductoraudio/modelos/Cancion.java,a\5\a5f3700617ac8f37f2e5797f8bf34fca8c60a4ea
